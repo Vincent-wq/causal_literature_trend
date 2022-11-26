@@ -1,5 +1,5 @@
 # Causal_literature_trend
-The causal literature trend data&visualization for paper *Claim Causality with Clarity* preprint at [arXiv](???).
+The causal literature trend data&visualization for paper *Claim Causality with Clarity* preprint at [PsyArXiv](https://psyarxiv.com/3j7ka).
 
 ## Data 
 The data used for visualization has been obtained from a [PubMed]( https://pubmed.ncbi.nlm.nih.gov/) search.
